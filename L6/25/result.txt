@@ -1,0 +1,304 @@
+=== Стратегія: least_confidence ===
+Epoch 1/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 347s 2s/step - accuracy: 0.4052 - loss: 1.2231 - val_accuracy: 0.6437 - val_loss: 0.7791
+Epoch 2/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 115s 805ms/step - accuracy: 0.6509 - loss: 0.7527 - val_accuracy: 0.7500 - val_loss: 0.5992
+Epoch 3/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 118s 826ms/step - accuracy: 0.6929 - loss: 0.6860 - val_accuracy: 0.7697 - val_loss: 0.5299
+Epoch 4/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 116s 809ms/step - accuracy: 0.7621 - loss: 0.5581 - val_accuracy: 0.7598 - val_loss: 0.5697
+Epoch 5/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 115s 806ms/step - accuracy: 0.7904 - loss: 0.5072 - val_accuracy: 0.7795 - val_loss: 0.5800
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 204ms/step
+53/53 ━━━━━━━━━━━━━━━━━━━━ 10s 196ms/step
+Epoch 1/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 133s 817ms/step - accuracy: 0.8490 - loss: 0.3891 - val_accuracy: 0.8406 - val_loss: 0.4266
+Epoch 2/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 132s 822ms/step - accuracy: 0.8652 - loss: 0.3447 - val_accuracy: 0.8685 - val_loss: 0.3660
+Epoch 3/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 132s 817ms/step - accuracy: 0.8958 - loss: 0.2920 - val_accuracy: 0.8446 - val_loss: 0.4428
+Epoch 4/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 132s 820ms/step - accuracy: 0.8649 - loss: 0.3901 - val_accuracy: 0.8805 - val_loss: 0.3528
+Epoch 5/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 131s 811ms/step - accuracy: 0.8769 - loss: 0.3266 - val_accuracy: 0.8274 - val_loss: 0.4632
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 217ms/step 
+Остання точність після навчання: 0.8804780840873718
+51/51 ━━━━━━━━━━━━━━━━━━━━ 10s 197ms/step
+Epoch 1/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 139s 841ms/step - accuracy: 0.9019 - loss: 0.2726 - val_accuracy: 0.8858 - val_loss: 0.2960
+Epoch 2/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 817ms/step - accuracy: 0.9128 - loss: 0.2464 - val_accuracy: 0.8818 - val_loss: 0.4050
+Epoch 3/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 135s 826ms/step - accuracy: 0.9184 - loss: 0.2286 - val_accuracy: 0.8977 - val_loss: 0.2792
+Epoch 4/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 814ms/step - accuracy: 0.9367 - loss: 0.1834 - val_accuracy: 0.8964 - val_loss: 0.4171
+Epoch 5/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 132s 812ms/step - accuracy: 0.9551 - loss: 0.1456 - val_accuracy: 0.8792 - val_loss: 0.3772
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 216ms/step
+Остання точність після навчання: 0.8977423906326294
+48/48 ━━━━━━━━━━━━━━━━━━━━ 10s 202ms/step
+Epoch 1/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 138s 816ms/step - accuracy: 0.9248 - loss: 0.2154 - val_accuracy: 0.8181 - val_loss: 0.4717
+Epoch 2/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 135s 811ms/step - accuracy: 0.8703 - loss: 0.3342 - val_accuracy: 0.8659 - val_loss: 0.3706
+Epoch 3/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 135s 815ms/step - accuracy: 0.9419 - loss: 0.1701 - val_accuracy: 0.8991 - val_loss: 0.2875
+Epoch 4/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 134s 806ms/step - accuracy: 0.9522 - loss: 0.1359 - val_accuracy: 0.7769 - val_loss: 0.6879
+Epoch 5/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 135s 816ms/step - accuracy: 0.8928 - loss: 0.2682 - val_accuracy: 0.9057 - val_loss: 0.3350
+24/24 ━━━━━━━━━━━━━━━━━━━━ 6s 220ms/step 
+Остання точність після навчання: 0.9057105183601379
+46/46 ━━━━━━━━━━━━━━━━━━━━ 9s 193ms/step
+Epoch 1/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 138s 808ms/step - accuracy: 0.9257 - loss: 0.1966 - val_accuracy: 0.8380 - val_loss: 0.4399
+Epoch 2/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 138s 821ms/step - accuracy: 0.9157 - loss: 0.2250 - val_accuracy: 0.9150 - val_loss: 0.2942
+Epoch 3/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 136s 808ms/step - accuracy: 0.9586 - loss: 0.1219 - val_accuracy: 0.8884 - val_loss: 0.4157
+Epoch 4/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 136s 812ms/step - accuracy: 0.9678 - loss: 0.0922 - val_accuracy: 0.9084 - val_loss: 0.2986
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 211ms/step
+Остання точність після навчання: 0.9150066375732422
+44/44 ━━━━━━━━━━━━━━━━━━━━ 9s 197ms/step 
+Epoch 1/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 140s 810ms/step - accuracy: 0.9603 - loss: 0.1114 - val_accuracy: 0.8991 - val_loss: 0.3108
+Epoch 2/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 138s 814ms/step - accuracy: 0.9612 - loss: 0.1170 - val_accuracy: 0.9137 - val_loss: 0.3514
+Epoch 3/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 138s 813ms/step - accuracy: 0.9581 - loss: 0.1495 - val_accuracy: 0.8194 - val_loss: 0.5175
+Epoch 4/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 137s 808ms/step - accuracy: 0.8793 - loss: 0.3360 - val_accuracy: 0.8938 - val_loss: 0.2979
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 207ms/step
+Остання точність після навчання: 0.9136786460876465
+Час виконання для стратегії least_confidence: 3254.40 секунд
+Точність до навчання (після первинного навчання): 0.7675963044166565
+Остання точність після навчання: 0.9136786460876465
+Файл 'best_model.keras' видалено.
+=== Стратегія: margin_sampling ===
+Epoch 1/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 122s 819ms/step - accuracy: 0.4116 - loss: 1.1358 - val_accuracy: 0.6083 - val_loss: 0.8179
+Epoch 2/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 118s 822ms/step - accuracy: 0.5782 - loss: 0.8488 - val_accuracy: 0.7382 - val_loss: 0.6046
+Epoch 3/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 117s 820ms/step - accuracy: 0.7494 - loss: 0.6054 - val_accuracy: 0.7972 - val_loss: 0.5117
+Epoch 4/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 116s 812ms/step - accuracy: 0.8006 - loss: 0.5144 - val_accuracy: 0.8327 - val_loss: 0.4514
+Epoch 5/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 117s 816ms/step - accuracy: 0.8389 - loss: 0.4363 - val_accuracy: 0.8543 - val_loss: 0.4254
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 212ms/step 
+53/53 ━━━━━━━━━━━━━━━━━━━━ 11s 206ms/step
+Epoch 1/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 134s 821ms/step - accuracy: 0.8375 - loss: 0.4236 - val_accuracy: 0.8393 - val_loss: 0.4358
+Epoch 2/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 131s 812ms/step - accuracy: 0.8833 - loss: 0.3390 - val_accuracy: 0.7915 - val_loss: 0.6265
+Epoch 3/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 130s 809ms/step - accuracy: 0.8744 - loss: 0.3526 - val_accuracy: 0.8738 - val_loss: 0.3444
+Epoch 4/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 132s 820ms/step - accuracy: 0.8981 - loss: 0.3303 - val_accuracy: 0.8991 - val_loss: 0.3123
+Epoch 5/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 132s 822ms/step - accuracy: 0.9247 - loss: 0.2140 - val_accuracy: 0.8141 - val_loss: 0.5093
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 202ms/step
+Остання точність після навчання: 0.8990703821182251
+51/51 ━━━━━━━━━━━━━━━━━━━━ 10s 192ms/step
+Epoch 1/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 134s 808ms/step - accuracy: 0.9281 - loss: 0.2120 - val_accuracy: 0.8101 - val_loss: 0.5854
+Epoch 2/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 813ms/step - accuracy: 0.9175 - loss: 0.2347 - val_accuracy: 0.8858 - val_loss: 0.3223
+Epoch 3/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 814ms/step - accuracy: 0.9350 - loss: 0.1808 - val_accuracy: 0.8672 - val_loss: 0.3929
+Epoch 4/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 134s 822ms/step - accuracy: 0.9081 - loss: 0.2495 - val_accuracy: 0.8752 - val_loss: 0.3113
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 199ms/step
+Остання точність після навчання: 0.8857901692390442
+48/48 ━━━━━━━━━━━━━━━━━━━━ 10s 199ms/step
+Epoch 1/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 137s 814ms/step - accuracy: 0.9446 - loss: 0.1564 - val_accuracy: 0.9097 - val_loss: 0.3093
+Epoch 2/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 136s 819ms/step - accuracy: 0.9522 - loss: 0.1462 - val_accuracy: 0.8871 - val_loss: 0.3194
+Epoch 3/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 134s 805ms/step - accuracy: 0.9446 - loss: 0.1740 - val_accuracy: 0.8858 - val_loss: 0.3274
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 200ms/step
+Остання точність після навчання: 0.9096945524215698
+46/46 ━━━━━━━━━━━━━━━━━━━━ 9s 198ms/step
+Epoch 1/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 140s 820ms/step - accuracy: 0.9378 - loss: 0.1852 - val_accuracy: 0.8924 - val_loss: 0.2742
+Epoch 2/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 135s 806ms/step - accuracy: 0.9385 - loss: 0.1755 - val_accuracy: 0.9031 - val_loss: 0.3398
+Epoch 3/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 137s 815ms/step - accuracy: 0.9418 - loss: 0.1914 - val_accuracy: 0.9057 - val_loss: 0.3556
+Epoch 4/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 136s 807ms/step - accuracy: 0.9650 - loss: 0.1007 - val_accuracy: 0.9017 - val_loss: 0.3421
+Epoch 5/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 136s 807ms/step - accuracy: 0.9029 - loss: 0.2671 - val_accuracy: 0.8632 - val_loss: 0.4124
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 200ms/step
+Остання точність після навчання: 0.9057105183601379
+44/44 ━━━━━━━━━━━━━━━━━━━━ 9s 207ms/step 
+Epoch 1/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 141s 815ms/step - accuracy: 0.9628 - loss: 0.1086 - val_accuracy: 0.8964 - val_loss: 0.3383
+Epoch 2/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 138s 810ms/step - accuracy: 0.9317 - loss: 0.2295 - val_accuracy: 0.7118 - val_loss: 0.6049
+Epoch 3/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 137s 807ms/step - accuracy: 0.8738 - loss: 0.3403 - val_accuracy: 0.8406 - val_loss: 0.3725
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 203ms/step
+Остання точність після навчання: 0.8964143395423889
+Час виконання для стратегії margin_sampling: 2842.17 секунд
+Точність до навчання (після первинного навчання): 0.8499336242675781
+Остання точність після навчання: 0.8964143395423889
+Файл 'best_model.keras' видалено.
+=== Стратегія: ratio_confidence ===
+Epoch 1/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 124s 818ms/step - accuracy: 0.3490 - loss: 1.1926 - val_accuracy: 0.6142 - val_loss: 0.8018
+Epoch 2/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 118s 824ms/step - accuracy: 0.6136 - loss: 0.7844 - val_accuracy: 0.7185 - val_loss: 0.6536
+Epoch 3/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 115s 806ms/step - accuracy: 0.7266 - loss: 0.6102 - val_accuracy: 0.7933 - val_loss: 0.5771
+Epoch 4/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 116s 814ms/step - accuracy: 0.8152 - loss: 0.4973 - val_accuracy: 0.7776 - val_loss: 0.5197
+Epoch 5/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 115s 805ms/step - accuracy: 0.7731 - loss: 0.5553 - val_accuracy: 0.8406 - val_loss: 0.4030
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 211ms/step
+53/53 ━━━━━━━━━━━━━━━━━━━━ 11s 203ms/step
+Epoch 1/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 133s 812ms/step - accuracy: 0.8153 - loss: 0.8027 - val_accuracy: 0.8181 - val_loss: 0.4741
+Epoch 2/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 131s 816ms/step - accuracy: 0.8577 - loss: 0.3777 - val_accuracy: 0.8446 - val_loss: 0.4131
+Epoch 3/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 133s 827ms/step - accuracy: 0.8834 - loss: 0.3144 - val_accuracy: 0.8592 - val_loss: 0.3963
+Epoch 4/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 133s 823ms/step - accuracy: 0.8898 - loss: 0.3093 - val_accuracy: 0.8845 - val_loss: 0.3209
+Epoch 5/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 130s 807ms/step - accuracy: 0.9117 - loss: 0.2505 - val_accuracy: 0.8738 - val_loss: 0.3209
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 199ms/step
+Остання точність після навчання: 0.8844621777534485
+51/51 ━━━━━━━━━━━━━━━━━━━━ 10s 204ms/step
+Epoch 1/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 137s 828ms/step - accuracy: 0.9140 - loss: 0.2534 - val_accuracy: 0.8884 - val_loss: 0.3236
+Epoch 2/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 132s 807ms/step - accuracy: 0.9291 - loss: 0.2020 - val_accuracy: 0.8672 - val_loss: 0.3288
+Epoch 3/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 818ms/step - accuracy: 0.8860 - loss: 0.3249 - val_accuracy: 0.9017 - val_loss: 0.2714
+Epoch 4/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 132s 811ms/step - accuracy: 0.9243 - loss: 0.2257 - val_accuracy: 0.8552 - val_loss: 0.3765
+Epoch 5/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 133s 815ms/step - accuracy: 0.9199 - loss: 0.2022 - val_accuracy: 0.8831 - val_loss: 0.3628
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 217ms/step
+Остання точність після навчання: 0.9017264246940613
+48/48 ━━━━━━━━━━━━━━━━━━━━ 10s 198ms/step
+Epoch 1/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 137s 807ms/step - accuracy: 0.9363 - loss: 0.1863 - val_accuracy: 0.8898 - val_loss: 0.3266
+Epoch 2/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 135s 813ms/step - accuracy: 0.9351 - loss: 0.1820 - val_accuracy: 0.8035 - val_loss: 0.4785
+Epoch 3/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 134s 807ms/step - accuracy: 0.8817 - loss: 0.3279 - val_accuracy: 0.8858 - val_loss: 0.3816
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 198ms/step
+Остання точність після навчання: 0.8897742629051208
+46/46 ━━━━━━━━━━━━━━━━━━━━ 9s 201ms/step
+Epoch 1/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 138s 813ms/step - accuracy: 0.9468 - loss: 0.1550 - val_accuracy: 0.8991 - val_loss: 0.2840
+Epoch 2/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 137s 813ms/step - accuracy: 0.9479 - loss: 0.1400 - val_accuracy: 0.8858 - val_loss: 0.3402
+Epoch 3/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 136s 812ms/step - accuracy: 0.9469 - loss: 0.1641 - val_accuracy: 0.8831 - val_loss: 0.5818
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 213ms/step 
+Остання точність після навчання: 0.8990703821182251
+44/44 ━━━━━━━━━━━━━━━━━━━━ 8s 191ms/step
+Epoch 1/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 139s 808ms/step - accuracy: 0.9492 - loss: 0.1545 - val_accuracy: 0.8977 - val_loss: 0.2819
+Epoch 2/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 139s 816ms/step - accuracy: 0.9547 - loss: 0.1328 - val_accuracy: 0.8672 - val_loss: 0.3924
+Epoch 3/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 138s 812ms/step - accuracy: 0.9556 - loss: 0.1430 - val_accuracy: 0.8579 - val_loss: 0.4010
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 200ms/step
+Остання точність після навчання: 0.8977423906326294
+Час виконання для стратегії ratio_confidence: 2702.82 секунд
+Точність до навчання (після первинного навчання): 0.8034528493881226
+Остання точність після навчання: 0.8977423906326294
+Файл 'best_model.keras' видалено.
+=== Стратегія: entropy ===
+Epoch 1/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 121s 814ms/step - accuracy: 0.3447 - loss: 1.1592 - val_accuracy: 0.5531 - val_loss: 1.0116
+Epoch 2/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 116s 809ms/step - accuracy: 0.5427 - loss: 0.9017 - val_accuracy: 0.5748 - val_loss: 0.8077
+Epoch 3/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 115s 803ms/step - accuracy: 0.6137 - loss: 0.7923 - val_accuracy: 0.5768 - val_loss: 0.8271
+Epoch 4/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 117s 818ms/step - accuracy: 0.6484 - loss: 0.7223 - val_accuracy: 0.7559 - val_loss: 0.6377
+Epoch 5/5
+143/143 ━━━━━━━━━━━━━━━━━━━━ 116s 813ms/step - accuracy: 0.7369 - loss: 0.5874 - val_accuracy: 0.7933 - val_loss: 0.5220
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 203ms/step
+53/53 ━━━━━━━━━━━━━━━━━━━━ 11s 205ms/step
+Epoch 1/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 135s 823ms/step - accuracy: 0.8015 - loss: 0.4986 - val_accuracy: 0.8234 - val_loss: 0.4281
+Epoch 2/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 131s 812ms/step - accuracy: 0.8431 - loss: 0.4149 - val_accuracy: 0.8101 - val_loss: 0.4667
+Epoch 3/5
+161/161 ━━━━━━━━━━━━━━━━━━━━ 131s 812ms/step - accuracy: 0.8605 - loss: 0.3811 - val_accuracy: 0.7928 - val_loss: 0.4695
+24/24 ━━━━━━━━━━━━━━━━━━━━ 5s 201ms/step
+Остання точність після навчання: 0.8233731985092163
+51/51 ━━━━━━━━━━━━━━━━━━━━ 10s 197ms/step
+Epoch 1/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 139s 841ms/step - accuracy: 0.8280 - loss: 0.4325 - val_accuracy: 0.8260 - val_loss: 0.4365
+Epoch 2/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 138s 848ms/step - accuracy: 0.8592 - loss: 0.3566 - val_accuracy: 0.8194 - val_loss: 0.4391
+Epoch 3/5
+163/163 ━━━━━━━━━━━━━━━━━━━━ 139s 850ms/step - accuracy: 0.8521 - loss: 0.3731 - val_accuracy: 0.8021 - val_loss: 0.5034
+24/24 ━━━━━━━━━━━━━━━━━━━━ 6s 222ms/step 
+Остання точність після навчання: 0.8260292410850525
+48/48 ━━━━━━━━━━━━━━━━━━━━ 10s 212ms/step
+Epoch 1/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 146s 862ms/step - accuracy: 0.8758 - loss: 0.3320 - val_accuracy: 0.8167 - val_loss: 0.4368
+Epoch 2/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 145s 873ms/step - accuracy: 0.8788 - loss: 0.3374 - val_accuracy: 0.8313 - val_loss: 0.4726
+Epoch 3/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 141s 849ms/step - accuracy: 0.8722 - loss: 0.3841 - val_accuracy: 0.8738 - val_loss: 0.3762
+Epoch 4/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 141s 847ms/step - accuracy: 0.8990 - loss: 0.2993 - val_accuracy: 0.8433 - val_loss: 0.4241
+Epoch 5/5
+166/166 ━━━━━━━━━━━━━━━━━━━━ 150s 903ms/step - accuracy: 0.8686 - loss: 0.3327 - val_accuracy: 0.8685 - val_loss: 0.3200
+24/24 ━━━━━━━━━━━━━━━━━━━━ 6s 241ms/step 
+Остання точність після навчання: 0.8738380074501038
+46/46 ━━━━━━━━━━━━━━━━━━━━ 11s 234ms/step
+Epoch 1/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 147s 858ms/step - accuracy: 0.9124 - loss: 0.2445 - val_accuracy: 0.8552 - val_loss: 0.4066
+Epoch 2/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 143s 852ms/step - accuracy: 0.8822 - loss: 0.3068 - val_accuracy: 0.8818 - val_loss: 0.3524
+Epoch 3/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 144s 855ms/step - accuracy: 0.9196 - loss: 0.2109 - val_accuracy: 0.8552 - val_loss: 0.4720
+Epoch 4/5
+168/168 ━━━━━━━━━━━━━━━━━━━━ 138s 823ms/step - accuracy: 0.8083 - loss: 0.5110 - val_accuracy: 0.6866 - val_loss: 0.7356
+24/24 ━━━━━━━━━━━━━━━━━━━━ 6s 227ms/step 
+Остання точність після навчання: 0.8818061351776123
+44/44 ━━━━━━━━━━━━━━━━━━━━ 10s 231ms/step
+Epoch 1/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 149s 855ms/step - accuracy: 0.9407 - loss: 0.1653 - val_accuracy: 0.8592 - val_loss: 0.4627
+Epoch 2/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 145s 851ms/step - accuracy: 0.9476 - loss: 0.1375 - val_accuracy: 0.8606 - val_loss: 0.3768
+Epoch 3/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 146s 861ms/step - accuracy: 0.9449 - loss: 0.1513 - val_accuracy: 0.8964 - val_loss: 0.4374
+Epoch 4/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 148s 870ms/step - accuracy: 0.9670 - loss: 0.1102 - val_accuracy: 0.7902 - val_loss: 0.5024
+Epoch 5/5
+170/170 ━━━━━━━━━━━━━━━━━━━━ 150s 884ms/step - accuracy: 0.9102 - loss: 0.2520 - val_accuracy: 0.8898 - val_loss: 0.3530
+24/24 ━━━━━━━━━━━━━━━━━━━━ 6s 242ms/step 
+Остання точність після навчання: 0.8964143395423889
+Час виконання для стратегії entropy: 3006.57 секунд
+Точність до навчання (після первинного навчання): 0.7742363810539246
+Остання точність після навчання: 0.8964143395423889
+Файл 'best_model.keras' видалено.
+=== Результати для стратегії least_confidence ===
+Час виконання (секунди): 3254.40
+Остання точність до навчання: 0.7675963044166565
+Остання точність після навчання: 0.9136786460876465
+=== Результати для стратегії margin_sampling ===
+Час виконання (секунди): 2842.17
+Остання точність до навчання: 0.8499336242675781
+Остання точність після навчання: 0.8964143395423889
+=== Результати для стратегії ratio_confidence ===
+Час виконання (секунди): 2702.82
+Остання точність до навчання: 0.8034528493881226
+Остання точність після навчання: 0.8977423906326294
+=== Результати для стратегії entropy ===
+Час виконання (секунди): 3006.57
+Остання точність до навчання: 0.7742363810539246
+Остання точність після навчання: 0.8964143395423889
